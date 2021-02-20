@@ -6,9 +6,5 @@
         MouseWheel,
         MouseClick,
         MouseMove
-
-        //Unspecified,
-        //MouseMove,
-        //MouseClick
     }
 }
